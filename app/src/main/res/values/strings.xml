@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstKotlin</string>
+    <string name="random">Random</string>
+    <string name="next">Next</string>
+</resources>
